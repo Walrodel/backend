@@ -24,9 +24,9 @@ You application will run on `port: 3000`
 
 # Dependencies
 
-- nodejs [8.12.0](https://nodejs.org/en/download/releases/) & npm v6.4.1
+- nodejs [12.16.1](https://nodejs.org/en/download/releases/) & npm v6.14.2
 - Express Js 4.16.1
-- MongoDB [3.4](https://www.mongodb.com/download-center/community)
+- MongoDB [4.2.3](https://www.mongodb.com/download-center/community)
 
 # Mongoose
 
