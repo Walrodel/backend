@@ -59,6 +59,10 @@ body {
   }
 }
 
+h1{
+  text-align: center;
+}
+
 .botones{
   text-align: center;
   padding: 20px;
