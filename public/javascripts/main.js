@@ -1,4 +1,4 @@
-const niveles = 3
+const niveles = 10
 let teclas
 let puntos = 0;
 let aciertos = 0;
