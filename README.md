@@ -1,5 +1,5 @@
 # Simon Dice
-App usando NodeJs, ExpressJs, MongoDB
+App using NodeJs, ExpressJs, MongoDB
 
 # Install Express generator
 
@@ -20,6 +20,7 @@ Do `$ npm install`
 Run `npm start`
 
 You application will run on `port: 3000`
+[Simom Dice](http://localhost:3000)
 
 # Dependencies
 
